@@ -21,7 +21,7 @@ Example:
 ssh-keygen -t ed25519 -C "chase_umak@gmail.com"
 ```
 ### Note
-Make sure that yor e-mail address is the same on the e-mail address you provide on your github account
+Make sure that your e-mail address is the same on the e-mail address you provide on your github account
 
 7. And make a passphrase on your ssh key and press enter and you will see like this
 ![image](https://user-images.githubusercontent.com/43966456/133982262-d9a4ed04-26ca-4a07-8744-dd4f8082505e.png)
