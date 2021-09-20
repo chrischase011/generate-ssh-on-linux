@@ -65,5 +65,10 @@ After that, you will see a confirmation like this.
 13. Great, we are now successfully generated SSH keys and connect it to Github.
 
 
+## References
+[Generate new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[Add new SSH Key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+[Test your SSH keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/testing-your-ssh-connection)
+
 
 Prepared by: [Christopher Robin Chase](https://github.com/chrischase011)
